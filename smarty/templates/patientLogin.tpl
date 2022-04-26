@@ -17,7 +17,7 @@
         {/if}
         
         <input type="submit" value="Zaloguj się">
-    </form>
+    </form> 
     </div>
     <div style="flex-grow:1; text-align:center">
     <h1>Zarejestruj się</h1>
