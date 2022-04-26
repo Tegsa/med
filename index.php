@@ -41,7 +41,7 @@ if($q && $q->execute()) {
                                     "lastName"      => $lastName,
                                     "appointmentList" => $appointmentList);
             array_push($staffList, $staffMember);
-            //echo "<br>";
+            
         } else {
           
             die("Błąd pobierania wizyt z bazy danych");
